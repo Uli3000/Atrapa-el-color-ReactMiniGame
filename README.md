@@ -6,12 +6,6 @@
 
 ---
 
-## 🌐 Idiomas | Languages
-- **Español**
-- **English**
-
----
-
 ## 🚀 Descripción | Description
 
 ### Español
